@@ -1,0 +1,6 @@
+[submodule "IVR"]
+	path = IVR
+	url = https://github.com/pragmatrix/IVR.git
+[submodule "FunToolbox"]
+	path = FunToolbox
+	url = https://github.com/pragmatrix/FunToolbox.git
